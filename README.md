@@ -19,4 +19,3 @@ If you have a book that you believe would be a valuable addition to this reposit
 1. **Fork the Repository:** Create a personal copy of the repository by forking it.
 2. **Add Your Book:** Upload the PDF file of the book to the appropriate category or create a new category if necessary.
 3. **Create a Pull Request:** Submit your changes through a pull request for review.
-# self-development-books
